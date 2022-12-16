@@ -8,10 +8,6 @@ https://github.com/hertzbio/uslim.git
 ### serial_com
 the repo for lms1000 control.  serial_com link：
 https://github.com/hertzbio/serial_com.git 
-   
-### serial_com
-the repo for lms1000 control.  serial_com link：
-https://github.com/hertzbio/serial_com.git 
 
 ### stm32f411-modbus-server
 the repo for blackpill modbus server.  stm32f411-modbus-server link：
